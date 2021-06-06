@@ -1,2 +1,1 @@
-# MemeMaker
-Created with CodeSandbox
+MemeMaker created using react with imgflip Api
